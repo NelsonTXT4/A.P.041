@@ -19,7 +19,7 @@ global.donasi = {
 global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'session'
-global.prefa = ['!','.','🐦','🐤','🗿']
+global.prefa = ['🤖','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
