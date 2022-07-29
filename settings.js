@@ -9,7 +9,7 @@ global.APIs = {
 // Other
 global.owner = ['6281241100804']
 global.premium = ['6281241100804']
-global.youtube = 'https://youtube.com/c/Riy'
+global.youtube = 'https://vt.tiktok.com/ZSdPqwKTg/'
 global.ownername = '𝗡𝗲𝗹𝘀𝗼𝗻:𝘃'
 global.botname ='𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
 global.donasi = {
