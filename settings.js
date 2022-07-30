@@ -7,16 +7,16 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281241100804']
-global.premium = ['6281241100804']
+global.owner = ['6285866124569']
+global.premium = ['6285866124569']
 global.youtube = 'https://vt.tiktok.com/ZSdPqwKTg/'
-global.ownername = '𝗡𝗲𝗹𝘀𝗼𝗻:𝘃'
-global.botname ='𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
+global.ownername = 'Aryo'
+global.botname ='A.P.04-𝐌𝐃'
 global.donasi = {
-    saweria: 'https://saweria.co/NelBotMD',
-    nomor: '081241100804'
+    saweria: 'https://saweria.co/bagusap04',
+    nomor: '085866124569'
 }
-global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
+global.packname = 'A.P.04-𝐌𝐃'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'session'
 global.prefa = ['🤖','!','.','🐦','🐤','🗿']
